@@ -1,4 +1,4 @@
-
+<div>
 
     <h1>Joomla 4 Beez SVGs <br> by Angie </h1>
     <img src="arrow-down.svg" alt="arrow down"/><img src="arrow-right.svg" alt="Arrow right"/><img src="arrow-up.svg"
@@ -9,7 +9,7 @@
                                                                                         alt="Paper"/><img
         src="phone.svg" alt="Phone"/><img src="printer.svg" alt="Printer"/>
     <img src="search.svg" alt="Search"/><br><img src="system.svg" alt="System"/><img src="pen.svg" alt="Pen"/>
-    <img src="mail.svg" alt="Envelop"/>
-
+    <img src="mail.svg" alt="Envelope"/>
+</div>
 
 
