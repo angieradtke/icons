@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Angie Radtke 2019  -->
+<svg version="1.1" id="Ebene_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="250px" height="250px" viewBox="0 0 250 250" enable-background="new 0 0 250 250" xml:space="preserve">
+<g>
+	<g>
+		<rect x="73.5" y="161.5" fill="none" stroke="#030405" stroke-width="3" stroke-miterlimit="10" width="102" height="56"/>
+		<line fill="none" stroke="#030405" stroke-width="6" stroke-miterlimit="10" x1="88" y1="191" x2="161" y2="191"/>
+		<line fill="none" stroke="#030405" stroke-width="6" stroke-miterlimit="10" x1="88" y1="202" x2="161" y2="202"/>
+	</g>
+	<polygon fill="#030405" points="176,95 173,95 173,50 74,50 74,95 71,95 71,47 176,47 	"/>
+	<path fill="#030405" stroke="#030405" stroke-width="5" stroke-miterlimit="10" d="M32.5,92.5v81h185v-81H183l-7.5,10H74l-10.5-10
+		H32.5z M192,123.653c-6.075,0-11-4.504-11-10.061s4.925-10.061,11-10.061s11,4.504,11,10.061S198.075,123.653,192,123.653z"/>
+</g>
+</svg>

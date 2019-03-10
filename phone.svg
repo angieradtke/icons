@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Angie Radtke 2019  -->
+<svg version="1.1" id="Ebene_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="250px" height="250px" viewBox="0 0 250 250" enable-background="new 0 0 250 250" xml:space="preserve">
+<path fill="#030405" d="M190,220.03c0,6.168-2.783,11.97-7.175,11.97H69.894C65.501,232,61,226.198,61,220.03V21.24
+	C61,15.071,65.501,11,69.894,11h112.931c4.392,0,7.175,4.071,7.175,10.24V220.03z"/>
+<path fill="#FFFFFF" stroke="#030405" stroke-width="4" stroke-miterlimit="10" d="M184,205.595c0,5.267-1.992,9.405-6,9.405H74.967
+	c-4.008,0-8.967-4.139-8.967-9.405V35.906C66,30.64,70.959,26,74.967,26H178c4.008,0,6,4.64,6,9.906V205.595z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M159.811,17.5c0,1.347-0.701,2.5-1.566,2.5
+	h-35.078c-0.865,0-1.566-1.153-1.566-2.5l0,0c0-1.347,0.701-2.5,1.566-2.5h35.078C159.109,15,159.811,16.153,159.811,17.5
+	L159.811,17.5z"/>
+<ellipse fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.8548" stroke-miterlimit="10" cx="168.769" cy="17.881" rx="3.193" ry="3.533"/>
+</svg>
