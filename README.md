@@ -1,6 +1,8 @@
 <body>
+    
+
     <h1>Joomla 4 Beez SVGs <br> by Angie </h1>
-    <img src="https://github.com/angieradtke/icons/blob/master/arrow-down.svg" alt="arrow down"/>
+    <img src="https://github.com/angieradtke/icons/blob/master/arrow-down.svg" alt="arrow down" />
     <img src="https://github.com/angieradtke/icons/blob/master/arrow-right.svg" alt="Arrow right"/>
     <img src="https://github.com/angieradtke/icons/blob/master/arrow-up.svg"  alt="Arrow up"/>
     <img src="https://github.com/angieradtke/icons/blob/master/arrow-left.svg" alt="Arrow left"/>
